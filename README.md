@@ -1,6 +1,9 @@
 # 🚗 Real-Time Vehicle Detection & Counting System (YOLOv8 + OpenCV)
 
-This project implements a robust **Real-Time Vehicle Detection and Counting System** using the state-of-the-art **YOLOv8** model for highly accurate object detection and **OpenCV** for seamless video processing and visualization. It is tailored for smart traffic management, surveillance, and real-time analytics applications.
+This project is a real-time Vehicle Detection System built using YOLOv8 and OpenCV, designed to detect and count different vehicle types from traffic video footage.
+
+It highlights the ability to detect only specific vehicle classes, draw colored bounding boxes, calculate FPS, and display vehicle counts live on screen — making it suitable for smart traffic, surveillance, and analytics use cases.
+
 
 
 
