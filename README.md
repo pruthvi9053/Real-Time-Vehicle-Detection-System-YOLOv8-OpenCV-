@@ -36,3 +36,5 @@ The project relies on a few key technologies for its functionality and performan
 ## 📂 Project Structure
 
 The repository is structured for clarity and easy execution:
+Vehicle Detection/ │ ├── main.py # 🧠 Main execution script containing YOLOv8 and OpenCV logic. ├── yolov8n.pt # 🤖 Pre-trained YOLOv8 Nano model weights. ├── Traffic3.mp4 # 📹 Sample video file for demonstration. └── README.md # 📜 Project overview and setup instructions (this file).
+
